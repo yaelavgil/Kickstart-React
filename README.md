@@ -1,1 +1,1 @@
-# Kickstart-React
+# React Exercises
